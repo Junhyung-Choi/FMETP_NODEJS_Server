@@ -1,0 +1,23 @@
+{
+  "name": "noejs-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Junhyung-Choi/FMETP_NODEJS_Server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Junhyung-Choi/FMETP_NODEJS_Server/issues"
+  },
+  "homepage": "https://github.com/Junhyung-Choi/FMETP_NODEJS_Server#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ws": "^8.11.0"
+  }
+}
